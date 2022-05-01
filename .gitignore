@@ -1,0 +1,4 @@
+*.cpython-38.pyc
+*.npy
+*.pkl
+ptb.train.txt
